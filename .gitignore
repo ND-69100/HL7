@@ -1,0 +1,12 @@
+# Sorties de compilation Delphi
+Win32/
+Win64/
+__history/
+__releases/
+*.dcu
+*.ddp
+*.local
+*.identcache
+*.bdsproj.local
+*.~*
+*.stat
